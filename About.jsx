@@ -15,7 +15,7 @@ const About = () => {
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
           My name Tinashe Jena I am a self-motivated, reliable, hardworking and honest individual, who is passionate about Technology and solving problems.
-		  I recently completed my BSc Computer Science Degree at University of the Western Cape 
+		  
         </p>
         <p className="a-desc">
          
